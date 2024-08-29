@@ -10,5 +10,6 @@ int main()
 	cout << "How much for 3 pieces of candy" << endl;
 	cout << "How to be better at school" << endl;
 	return 0;
+	wow
 
 }
